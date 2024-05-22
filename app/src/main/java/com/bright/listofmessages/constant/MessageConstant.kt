@@ -8,8 +8,7 @@ object MessageConstant {
        return listOf(
             Message("BS in Computer Science", "Today’s society is increasingly information-based. Fundamental knowledge of how computers and computing systems work is a vital part of modern life and a universal skill that can be applied to a variety of careers and fields.\n" +
                     "\n" +
-                    "Our computer science program will prepare you for success by providing comprehensive knowledge of the discipline and by teaching you how to think clearly, precisely, and creatively.\n" +
-                    "\n."),
+                    "Our computer science program will prepare you for success by providing comprehensive knowledge of the discipline and by teaching you how to think clearly, precisely, and creatively."),
             Message("BA in Consciousness & Human Potential", "The BA in Consciousness & Human Potential integrates personal experience, philosophy of mind, neuroscience, and ancient wisdom.\n" +
                     "\n" +
                     "Our goal for every student is enlightenment — the systematic development of full potential from within. This is the key to true fulfillment in daily life and any career."),
